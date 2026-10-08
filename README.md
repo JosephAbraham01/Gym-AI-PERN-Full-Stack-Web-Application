@@ -161,6 +161,16 @@ Open the local URL displayed by Vite in your browser.
 6. The backend sends the relevant profile data to OpenRouter.
 7. The generated workout plan is returned and displayed to the user.
 
+## Acknowledgements
+
+This project was developed while following PedroTech's **Full-Stack AI Gym Planner** course on YouTube.
+
+The course was used as a learning resource for the core full-stack architecture and implementation.
+
+Course:
+https://www.youtube.com/watch?v=upo7BBbomoQ
+
+
 ## Author
 
 Joseph Abraham Thekkedam
