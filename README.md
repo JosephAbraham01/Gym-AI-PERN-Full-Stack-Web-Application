@@ -18,6 +18,24 @@ The application includes:
 
 User information is stored in a **Neon PostgreSQL** database and used by the backend to generate personalised training plans.
 
+## Screenshots
+
+### Home Page
+
+![Home Page](screenshots/home%20page.png)
+
+### Onboarding
+
+![Onboarding](screenshots/onboarding.png)
+
+### Generated Training Plan
+
+![Generated Training Plan](screenshots/plan.png)
+
+### Profile Page
+
+![Profile Page](screenshots/settings.png)
+
 ## AI Workout Generation
 
 The Express backend integrates with **OpenRouter** to generate personalised workout programmes.
